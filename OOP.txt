@@ -1,0 +1,11 @@
+What is oop? with example?
+what are classes and objects? with example?
+what are advantages of oops instead of 
+functional programming? with example?
+what is interface?
+what is class? with example?
+what is object? with example?
+what are pillars of OOP? 
+what is polymorphism? what are its types?
+what is inheritance?
+what are its types?
